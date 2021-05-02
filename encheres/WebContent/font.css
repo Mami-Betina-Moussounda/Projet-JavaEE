@@ -1,0 +1,117 @@
+@charset "UTF-8";
+html
+{
+	font-size:11px;
+}
+
+h1
+{
+	font-size:1.4em;
+}
+
+
+.row
+{
+	align-items: baseline;
+}
+
+.card
+{
+	font-size:0.8em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+
+.title
+{
+	font-size: 2em;
+	text-align:center;
+	margin-top: 1em;
+}
+
+.form-control
+{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.erreur
+{
+	font-size: 1em;
+	color: red;
+}
+.detailventeform
+{
+	width: 100%;
+}
+.displayArticle
+{
+	font-size: 1.3em;
+}
+
+.credit
+{
+	padding:0;
+}
+
+.boutons-profil
+{
+	display: flex;
+	justify-content:space-between;
+	margin-top: 3em;
+	
+}
+
+.detail-profil
+{
+	margin-top: 2em;
+	text-align:justify;
+}
+ 
+.conteneur-image img
+{
+	width: 4em;
+}
+
+.conteneur-bouton .btn
+{
+	width:10em;
+	height: 4em;
+}
+
+.conteneur-image, .conteneur-bouton
+{
+	align-self:center;
+	text-align: center;
+}
+
+@media  (min-width: 768px) 
+{
+		html
+	{
+		font-size:13px;
+	}
+	
+}
+
+
+
+@media  (min-width: 1100px) 
+{
+		html
+	{
+		font-size:15px;
+	}
+	
+}
+
+
+@media  (min-width: 1300px) 
+{
+		html
+	{
+		font-size:20px;
+	}
+	
+}
