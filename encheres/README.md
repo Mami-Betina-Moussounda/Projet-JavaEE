@@ -2,12 +2,13 @@
 
 Création d'un site e-commerce avec la gestion d'utilisateurs, de vente et d'enchères.
 
+
 ## Tech Stack
 | Langages    |      Environnement/Plateforme/Librairie     |
 |-------------|---------------------------------------------|
 |   Java8     |        Eclipse 2020-06, JavaEE              |
 | Javascript  | Apache Tomcat 8.5, MySQL 5.7, PHPMyAdmin 5.0|
-|             |     HTML5, CSS3, Bootstrap 4                |
+| HTML5, CSS3 |               Bootstrap 4                   |
 
 
 ## Notice
